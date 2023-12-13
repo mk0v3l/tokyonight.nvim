@@ -220,7 +220,7 @@ function M.setup()
     ["@punctuation.special.markdown"] = { fg = c.orange, bold = true },
 
     --- Literals
-    ["@string.documentation"] = { fg = c.red },
+    ["@string.documentation"] = { fg = c.green },
     ["@string.regex"] = { fg = c.blue6 }, -- For regexes.
     ["@string.escape"] = { fg = c.magenta }, -- For escape characters within a string.
 
